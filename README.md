@@ -1,7 +1,7 @@
 # Woofy Greet Actions
 ## Usage
 
-You can now consume the action by referencing the appropriate branch
+You can now consume the action by referencing the appropriate branch.
 
 ```yaml
 - uses: HarishTeens/woofy-actions@v1.0.3
